@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Earphones"
+    },
+    {
+      "id": 1,
+      "name": "Facewash"
+    },
+    {
+      "id": 2,
+      "name": "Geometry box"
+    },
+    {
+      "id": 3,
+      "name": "Nail cutter"
+    },
+    {
+      "id": 4,
+      "name": "SOGO table fan"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch"
+    },
+    {
+      "id": 6,
+      "name": "Stapler"
+    },
+    {
+      "id": 7,
+      "name": "Toothbrush"
+    },
+    {
+      "id": 8,
+      "name": "Water bottle"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

@@ -1,0 +1,6 @@
+train: F:\YOLO\train
+val: F:\YOLO\val
+
+nc: 9
+
+names: ["Earphones","Facewash","Geometry box","Nail cutter","SOGO table fan","Smartwatch","Stapler","Toothbrush","Water bottle"]
